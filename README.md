@@ -55,3 +55,11 @@ This project presents an end-to-end employee data analysis pipeline starting fro
 - Correlation between education and salary
 - Gender-wise salary gap (if applicable)
 - Salary range across locations
+
+
+---
+
+## THE ENTIRE PIPELINE FOR THE PROJECT IS AS FOLLOWS
+![Pipeline Diagram](./images/PIPELINE.jpg)
+
+
