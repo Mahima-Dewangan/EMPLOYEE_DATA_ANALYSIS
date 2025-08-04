@@ -13,7 +13,7 @@ This project presents an end-to-end employee data analysis pipeline starting fro
    - Format: CSV  
 
 2. **Data Cleaning & Preprocessing**  
-   - Tool: Python (Pandas, NumPy)
+   - Tool: Python (Pandas)
    - Operations Performed:
      - Handling missing values
      - Normalizing column formats
@@ -36,20 +36,7 @@ This project presents an end-to-end employee data analysis pipeline starting fro
      - Gender distribution
      - Experience vs Salary trends
 
----
 
-## 📁 Project Structure
-
-```
-EMPLOYEE_DATA_ANALYSIS/
-│
-├── emp_salary_data.csv                # Raw Kaggle dataset
-├── cleaned_data.csv                   # Cleaned data ready for DB load
-├── data_cleaning_script.py           # Python script used for cleaning
-├── XEPDB1-APPS_USER.sql              # Oracle SQL scripts for table creation
-├── powerbi_dashboard.pbix           # Power BI dashboard file
-└── README.md                         # Project documentation
-```
 
 ---
 
